@@ -2,6 +2,5 @@ Transforming how organizations deploy AI at scale—where privacy becomes a comp
 
 Our privacy-preserving AI platform enables enterprises to unlock the full potential of their data while maintaining regulatory compliance, user trust, and competitive security through differential privacy, federated learning, and confidential computing.
 
-Boston, MA and Houston, TX
-
+Boston, MA and Austin, TX
 lucitra.ai
