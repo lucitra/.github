@@ -1,0 +1,17 @@
+# Global code owners
+* @ibraheem4
+
+# Frontend specific files
+*.tsx @ibraheem4
+*.ts @ibraheem4
+*.css @ibraheem4
+
+# Infrastructure and deployment
+.github/ @ibraheem4
+cloudbuild*.yaml @ibraheem4
+Dockerfile @ibraheem4
+scripts/ @ibraheem4
+
+# Configuration files
+*.json @ibraheem4
+*.config.* @ibraheem4
